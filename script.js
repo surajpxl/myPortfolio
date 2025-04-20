@@ -71,3 +71,25 @@ $(document).ready(function(){
         }
     });
 });
+$(window).on('scroll', function() {
+    var scrollPos = $(document).scrollTop();
+    $('.navbar .menu li a').each(function() {
+        var currLink = $(this);
+        var refElement = $(currLink.attr("href"));
+        if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+            $('.navbar .menu li a').removeClass("active");
+            currLink.addClass("active");
+            currLink.css({
+                "color": "yellow", // Set active link color to yellow
+                "text-decoration": "underline", // Add underline
+                "text-decoration-color": "blue" // Set underline color to grey
+            });
+        } else {
+            currLink.removeClass("active");
+            currLink.css({
+                "color": "", // Reset color for non-active links
+                "text-decoration": "" // Remove underline for non-active links
+            });
+        }
+    });
+});
