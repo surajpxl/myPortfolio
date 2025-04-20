@@ -80,9 +80,9 @@ $(window).on('scroll', function() {
             $('.navbar .menu li a').removeClass("active");
             currLink.addClass("active");
             currLink.css({
-                "color": "yellow", // Set active link color to yellow
+                "color": "grey", // Set active link color to grey
                 "text-decoration": "underline", // Add underline
-                "text-decoration-color": "blue" // Set underline color to grey
+                "text-decoration-color": "white" // Set underline color to white
             });
         } else {
             currLink.removeClass("active");
