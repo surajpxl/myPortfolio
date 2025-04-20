@@ -63,8 +63,28 @@
       <div class="max-width">
         <h2 class="title">About me</h2>
         <div class="about-content">
-          <div class="column left">
-            <img src="images/profile (1).png" alt="" />
+          <div class="column left ">
+            <img class="shake-animation" src="images/profile (1).png" alt="" />
+            <style>
+              @keyframes shake {
+              0%, 100% {
+                transform: translateX(0);
+              }
+              25% {
+                transform: translateX(-5px);
+              }
+              50% {
+                transform: translateX(5px);
+              }
+              75% {
+                transform: translateX(-5px);
+              }
+              }
+              .shake-animation:hover {
+              animation: shake 0.5s ease-in-out;
+              }
+            </style>
+            
           </div>
           <div class="column right">
             <div class="text">
