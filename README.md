@@ -43,15 +43,11 @@ To set up the project locally, follow these steps:
 ## Screenshots
 Here are some visuals of the portfolio:
 
-29560ad788)
-0d8f5daa0138)
-![Screenshot 1](https://via.placeholder.com/800x400?text=![Screenshot 2025-04-21 162203](https://github.com/user-attachments/assets/ce9a65f3-8808-4b43-acd1-01b3fbfecab7)
-Home+Page)  
-*The homepage with a responsive design.*
-
-![Screenshot 2](https://via.placeholder.com/800x400?text=Projects+Section)  
-![Screenshot 2025-04-21 162126](https://github.com/user-attachments/assets/abb66257-0d4c-41e1-b4a7-![Screenshot 2025-04-21 162231](https://github.com/user-attachments/assets/5993f7b0-fc6b-4ebc-b6f1-0903ccba6c43)
-![Screenshot 2025-04-21 162042](https://github.com/user-attachments/assets/11b3e952-7b2a-428f-b133-42![Screenshot 2025-04-21 162255](https://github.com/user-attachments/assets/725816e0-0c60-4ce9-9ba3-0e273dd61742)
+![Screenshot 2025-04-21 162126](https://github.com/user-attachments/assets/80e29d46-9913-4241-9523-1f7a8e4296c9)
+![Screenshot 2025-04-21 162042](https://github.com/user-attachments/assets/1f884b0b-409a-416c-bb49-664face9bc41)
+![Screenshot 1](https://github.com/user-attachments/assets/ce9a65f3-8808-4b43-acd1-01b3fbfecab7)
+![Screenshot 2025-04-21 162231](https://github.com/user-attachments/assets/5993f7b0-fc6b-4ebc-b6f1-0903ccba6c43)
+[Screenshot 2025-04-21 162255](https://github.com/user-attachments/assets/725816e0-0c60-4ce9-9ba3-0e273dd61742)
 *The projects section featuring key highlights.*
 
 ## License
